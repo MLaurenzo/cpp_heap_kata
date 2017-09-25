@@ -4,6 +4,7 @@ project(cpp_heap_kata)
 set(CMAKE_CXX_STANDARD 17)
 
 set(SOURCE_FILES
-        main.cpp)
+        heap_utils.cpp
+        main.cpp )
 
 add_executable(cpp_heap_kata ${SOURCE_FILES})
