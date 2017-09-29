@@ -5,7 +5,7 @@ The goal of this kata is to work with heaps.
 2. Implement the sort alogrithm taking a heapified vector as parameter.
 
 Here are the functions' signature:
-
+```
 void heapify(std::vector<int>& v);
-
 void sort(std::vector<int>& v);
+```
